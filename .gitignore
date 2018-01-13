@@ -1,0 +1,30 @@
+# Maven specific
+target/
+
+# IntelliJ specific
+
+*.iml
+.idea/
+
+# Eclipse specific
+.project
+.settings/
+.classpath
+
+
+/bin/
+.Rproj.user
+.Rhistory
+
+
+# Log
+*.log
+
+
+
+scripts/__pycache__
+
+# DS_STORE
+*.DS_STORE
+
+*.class
